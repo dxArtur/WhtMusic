@@ -1,0 +1,80 @@
+body{
+    background-image:linear-gradient(to right, #00C31E, #254CFF);
+}
+
+p{
+    color: gray;
+    font-family:Arial;
+    font-style: italic;
+}
+
+.card{
+    background-color: #CECECE;
+    box-shadow: 1px 1px 5px white;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.form{
+    width: 350px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+
+.card_top{
+    text-align: center;
+    border-radius: 10px;
+}
+.profile{
+    align-items: center;
+    width: 120px;
+    heigth: 120px;
+    border-radius: 80px;
+    box-shadow: 10px 10px 1px #ccc;
+}
+
+.card_group{
+    color: gray;
+    margin-bottom: 10px;
+    font-family:Arial;
+}
+
+.card_group > label{
+    width: 100px
+    color: rgb(75, 75, 75);
+    border-radius: 40px;
+    align-items: center;
+    display: block;
+}
+
+.card_group > input{
+   border-radius: 5px;
+   outline: 100px;
+   width: 100%;
+   heigth: 25px;
+   padding: 5px;
+}
+
+.card_psswd{
+    text-align: center;
+    align-items: center;
+    display: block;
+}
+
+
+.card_group > button{
+    background-image:linear-gradient(to left, #00C31E, #254CFF);
+    color: white;
+    width: 100%;
+    border-radius: 40px;
+    outline: 0;
+    heigth: 10px;
+    padding: 15px;
+}
+
+.profilepic{
+    border-radius: 2px;
+    width: 100px
+}
+

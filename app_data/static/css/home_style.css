@@ -1,0 +1,36 @@
+body{
+    background-color: #CECECE;
+}
+
+img{
+    align-items: center;
+    width: 3%;
+    border-radius: 100px;
+    box-shadow: 10px 10px 1px #ccc;
+
+}
+
+.card_top{
+    position: absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+    background-image:linear-gradient(to right, #00C31E, #254CFF);
+    padding: 14px;
+    width: 100%;
+    heigth: 42px;
+    margin: 0;
+}
+
+
+
+
+p{
+    text-align: right ;
+    color: white;
+    font-family:Arial;
+    font-style: italic;
+    margin: 18px;
+}
+
+
